@@ -9,3 +9,7 @@ Software Development Envronment
 Project Management
 
 - [New project setup](./PROJECT_SETUP.md)
+
+How to's
+
+- [Add wxWidgets to a project](./ADD_WXWIDGETS.md)
